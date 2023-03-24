@@ -16,7 +16,7 @@ The captain's portal is where the bulk of the work was. The sign-up form does no
 The Administrator's Portal can be accessed through a link at the bottom of the login page for the club captain's portal. 
 
 
-##Database Structure
+## Database Structure
 
 - There are 4 tables in the database, all "id" columns are primary keys, are "int" types and auto-increment, all other data types are "text" unless otherwise specified:
 
